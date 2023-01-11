@@ -1,0 +1,30 @@
+.container{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    width: 100vw;
+    margin-left: -8px;
+    margin-top: -8px;
+    height: 50vh;
+}
+.nav{
+    text-align: right;
+}
+.sd{
+    text-decoration: none;
+    margin-right: 4%;
+    margin-top: 8px;
+}
+.heading{
+    margin-top: 10%;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 25%;
+}
+.btn{
+    background: transparent;
+    cursor: pointer;
+    border-color: #ff99cc;
+    margin-top: 8px;
+}
